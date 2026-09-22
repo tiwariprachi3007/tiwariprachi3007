@@ -125,16 +125,13 @@ A project exploring text processing and conversion from Markdown syntax to HTML.
 
 ## 📊 GitHub Activity
 
+## 📊 Contribution Graph
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tiwariprachi3007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tiwariprachi3007&theme=tokyo-night&hide_border=true&area=true" />
+![Prachi's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tiwariprachi3007&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
-
 ## 🌱 Currently
 
 ```text
