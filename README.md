@@ -130,25 +130,6 @@ Programming Practice • Rent Calculator
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tiwariprachi3007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tiwariprachi3007&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
 
 ## 🌱 Currently
 
