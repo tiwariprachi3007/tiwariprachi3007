@@ -21,6 +21,8 @@ I'm a Computer Science student who learns best by building — turning concepts 
 
 <br>
 
+## Tech Stack
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,js,ts,react,figma,git,github,vscode&perline=10"/>
@@ -76,12 +78,16 @@ A browser-based take on the classic game, built to sharpen DOM manipulation and 
 
 <br>
 
-## GitHub Stats
+## Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tiwariprachi3007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwariprachi3007&theme=tokyonight&hide_border=true" height="165"/>
+<img height="200" alt="Contributions, public repos, and the last year of activity" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiwariprachi3007&theme=github_dark">
+
+<img height="200" alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiwariprachi3007&theme=github_dark">
+<img height="200" alt="Languages I commit in most" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tiwariprachi3007&theme=github_dark">
+
+<img height="195" alt="Contribution streak" src="https://streak-stats.demolab.com?user=tiwariprachi3007&hide_border=true&background=0f172a&ring=0891b2&fire=38bdf8&currStreakLabel=0891b2&sideLabels=e2e8f0&dates=94a3b8&stroke=1e3a8a&currStreakNum=e2e8f0&sideNums=e2e8f0">
 
 </div>
 
@@ -110,4 +116,3 @@ A browser-based take on the classic game, built to sharpen DOM manipulation and 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0891b2,50:1e3a8a,100:0f172a" width="100%"/>
-
