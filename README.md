@@ -231,7 +231,6 @@ Fix it
 * 🚀 Always looking for something new to build
 
 ---
-
 # 📈 GITHUB STATS
 
 <p align="center">
@@ -242,15 +241,7 @@ Fix it
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwariprachi3007&layout=compact&theme=tokyonight&hide_border=true" alt="Prachi's Top Languages" />
 </p>
 
----
 
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tiwariprachi3007/tiwariprachi3007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
 
 # 🤝 LET'S CONNECT
 
