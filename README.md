@@ -1,260 +1,141 @@
-# 👩🏻‍💻 Prachi Tiwari
 
-### `CSE Student • Builder • Debugger • Professional Bug Creator & Fixer`
+<!-- HEADER -->
+<div align="center">
 
-```text
-┌──────────────────────────────────────────────────┐
-│  $ whoami                                        │
-│                                                  │
-│  Prachi                                           │
-│  Computer Science Engineering Student             │
-│  Building things • Breaking things • Learning     │
-│                                                  │
-│  Currently turning coffee → code → bugs           │
-│  → debugging → "OH WAIT, I GOT IT" → repeat      │
-└──────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Prachi%20Tiwari&fontSize=55&fontAlignY=35&desc=Code%20%7C%20Create%20%7C%20Learn&descAlignY=60&animation=fadeIn&color=gradient" />
 
-I like building things that start with:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+%F0%9F%92%BB;Building+Projects+%26+Learning+Every+Day+%F0%9F%9A%80;C%2B%2B+%7C+Python+%7C+SQL+%7C+Web+Development;Turning+Ideas+into+Code+%E2%9C%A8" />
 
-> **"Wait... can I actually make this?"**
+<br>
 
-and end with:
+<img src="https://komarev.com/ghpvc/?username=tiwariprachi3007&style=flat-square&color=blueviolet" />
 
-> **"Okay, it actually works."**
-
-Currently exploring **C++, DSA, SQL, Python, Web Development, and Software Engineering** — while occasionally fighting with Git for absolutely no reason. :)
+</div>
 
 ---
 
-## 🧠 CURRENTLY IN MY CODE EDITOR
+## 👩‍💻 About Me
 
-```cpp
-while (alive) {
-    learn();
-    build();
-    breakThings();
-    debug();
-    pushToGitHub();
-}
-```
+🎓 **B.Tech Computer Science & Engineering**  
+🏫 **Graphic Era Hill University, Bhimtal** | 2025–2029  
 
-### 🔭 Currently Learning
+💻 I enjoy building projects, solving problems and exploring new technologies.
 
-* 🧩 Data Structures & Algorithms
-* ⚡ C++ & OOP
-* 🗄️ SQL & Databases
-* 🐍 Python
-* 🌐 React & Modern Frontend Development
-* 🔧 Git & GitHub
-* ☁️ Backend Development
-* 🤖 Exploring AI/ML
+🌱 Currently learning **C++, DSA, SQL & Web Development**
+
+⚡ I learn best by **building things and breaking things**.
 
 ---
 
-## 🛠️ TECH STACK
-
-### 💻 Languages
-
-`C` `C++` `Python` `Java` `SQL` `JavaScript` `TypeScript`
-
-### 🌐 Frontend
-
-`HTML` `CSS` `React` `Tailwind CSS`
-
-### 🔧 Tools
-
-`Git` `GitHub` `VS Code` `Git Bash`
-
-### 🚀 Exploring
-
-`Node.js` `Backend Development` `AI/ML` `DSA`
-
----
-
-# 🚀 PROJECTS
-
-## 🛍️ Myntra Clone
-
-A frontend e-commerce clone created to practice real-world UI development, layouts, styling and JavaScript functionality.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
----
-
-## 🌊 Underwater Marine Debris Detection — SIH 2026
-
-Working on an AI-powered system designed to detect possible marine debris and anomalies from **side-scan sonar imagery**.
-
-The frontend prototype focuses on:
-
-* 📊 Detection dashboard
-* 🌊 Sonar image viewer
-* 🎯 Detection overlays
-* 🗺️ Map interface
-* 📄 Reports interface
-
-**Tech:** `React` `TypeScript` `Tailwind CSS`
-
-> Turning sonar imagery into something humans can actually understand. 🌊
-
----
-
-## 🏥 Hospital Management System
-
-A C-based management system created to practice structured programming, file handling and real-world problem solving.
-
-**Tech:** `C` `File Handling`
-
----
-
-## 🎓 Student Management System
-
-A console-based student management system using C and file handling for persistent data storage.
-
-**Tech:** `C` `File Handling`
-
----
-
-## 🧩 WordBridge
-
-A word-ladder project using **Breadth-First Search (BFS)** to automatically find transformations between words.
-
-Because apparently even words need algorithms to find their way. :)
-
-**Tech:** `C` `BFS` `Data Structures`
-
----
-
-# 📚 MY LEARNING JOURNEY
-
-```text
-C
-████████████████████ 100%
-
-HTML / CSS
-████████████████████ 100%
-
-JavaScript
-██████████████░░░░░░  70%
-
-Python
-██████████████░░░░░░  70%
-
-C++
-██████████████░░░░░░  70%
-
-SQL
-████████████░░░░░░░░  60%
-
-DSA
-██████████░░░░░░░░░░  50%
-
-Backend
-██████░░░░░░░░░░░░░░  30%
-
-AI / ML
-████░░░░░░░░░░░░░░░░  20%
-```
-
-> Progress is always changing because learning never really has a "100% complete" button.
-
----
-
-# 🧪 CURRENT SIDE QUESTS
-
-* [x] Survive first year of engineering
-* [x] Start building projects
-* [x] Learn Git & GitHub
-* [x] Start DSA
-* [x] Participate in hackathons
-* [x] Build frontend projects
-* [ ] Become dangerously good at C++
-* [ ] Get stronger at DSA
-* [ ] Learn backend development
-* [ ] Build a full-stack project
-* [ ] Explore AI/ML
-* [ ] Land an internship 👀
-* [ ] Make my GitHub contribution graph suspiciously green
-
----
-
-# 🎯 WHAT I'M WORKING TOWARDS
-
-```text
-Student
-   ↓
-Learner
-   ↓
-Builder
-   ↓
-Problem Solver
-   ↓
-Software Engineer
-```
-
-I'm interested in opportunities where I can **learn, build, collaborate and solve real-world problems**.
-
----
-
-# 🐛 DEBUGGING PHILOSOPHY
-
-```text
-Code doesn't work
-       ↓
-Read the error
-       ↓
-Google
-       ↓
-Try random fix
-       ↓
-Still doesn't work
-       ↓
-Read documentation
-       ↓
-Understand the problem
-       ↓
-Fix it
-       ↓
-"WHY DID I NOT DO THIS FIRST?"
-```
-
----
-
-# 🌱 A LITTLE ABOUT ME
-
-* 🎓 Computer Science Engineering student
-* 💻 Interested in software development
-* 🧠 Currently improving my DSA & C++ skills
-* 🌐 Enjoy building web interfaces
-* 🛠️ Prefer learning by building projects
-* 🚀 Always looking for something new to build
-
----
-# 📈 GITHUB STATS
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiwariprachi3007&show_icons=true&theme=tokyonight&hide_border=true" alt="Prachi's GitHub Stats" />
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,mysql,git,github,vscode" />
+
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwariprachi3007&layout=compact&theme=tokyonight&hide_border=true" alt="Prachi's Top Languages" />
-</p>
-
-
-
-# 🤝 LET'S CONNECT
-
-If you're also learning, building, debugging at unreasonable hours, or turning random ideas into projects —
-
-**we'll probably get along.**
-
-### `Code. Build. Break. Learn. Repeat.`
-
-⭐ If you find something interesting in my repositories, feel free to explore!
 
 ---
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌊 SIH 2026 — Marine Debris Detection
+AI-based project focused on detecting underwater marine debris from side-scan sonar imagery.
+
+**Focus:** AI/ML • Sonar Imagery • Detection
+
+</td>
+
+<td width="50%">
+
+### 🌉 PlaceBridge
+A project developed as part of my academic/project work, focused on connecting users with relevant information and services.
+
+**Focus:** Problem Solving • Development
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🛍️ Myntra Clone
+A frontend e-commerce interface built to practice real-world web development.
+
+**Focus:** HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%">
+
+### 📝 Markdown → HTML Converter
+A project exploring text processing and conversion from Markdown syntax to HTML.
+
+**Focus:** Programming • Parsing
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 💡 Other Projects
+
+`C / C++` → DSA • OOP • Student Management • Hospital Management • Calculators
+
+`Web` → Tic Tac Toe • Stone Paper Scissors • Myntra Clone
+
+`Python` → Programming Practice • Rent Calculator
+
+---
+
+## 🏆 Activities
+
+- 🌱 **NSS Volunteer**
+- 💡 **Build for India Hackathon 2025** — GEHU Bhimtal
+- 💡 **Build for India Hackathon 2026** — GEHU Bhimtal
+- 🚀 **Smart India Hackathon 2026** — Marine Debris Detection Project
+
+---
+
+## 📜 Certifications
+
+**Programming**
+- C Training — EduPyramid
+- C++ Training — EduPyramid
+- Python — HackerRank
+
+**AI / ML**
+- Fundamentals of Machine Learning & Artificial Intelligence — AWS
+- Elements of AI — University of Helsinki
+- Introduction to Prompt Engineering with GitHub Copilot — Simplilearn
+
+**Database**
+- SQL: The Complete Developer's Guide — Udemy
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tiwariprachi3007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=tiwariprachi3007&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌱 Currently
+
+```text
+C++ ──► DSA ──► SQL ──► Web Development ──► Bigger Projects
