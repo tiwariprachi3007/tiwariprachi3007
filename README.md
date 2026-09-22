@@ -21,11 +21,9 @@ I'm a Computer Science student who learns best by building — turning concepts 
 
 <br>
 
-## Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,js,git,github,vscode&perline=10"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,js,ts,react,figma,git,github,vscode&perline=10"/>
 
 </div>
 
